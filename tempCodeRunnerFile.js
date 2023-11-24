@@ -1,1 +1,1 @@
-fizzBuzz2([1, 3, 5, 7, 15, 30]);
+console.log(occurrences(book));

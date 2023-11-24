@@ -40,3 +40,10 @@ function fizzBuzz2(numbers) {
   }
   return;
 }
+
+// Exemplo de input para o exemplo 1:
+console.log(fizzBuzz([5, 15, 30, 2]));
+
+
+// Exemplo de input para o exemplo 2:
+fizzBuzz2([5, 15, 30, 2])

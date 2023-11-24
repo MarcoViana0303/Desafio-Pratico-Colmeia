@@ -41,3 +41,6 @@ function occurrences(book) {
     }
     return result;
 }
+
+// Exemplo de input para o desafio: 
+console.log(occurrences(book));
